@@ -1,0 +1,110 @@
+body{background-color:#fff;
+      margin:0 auto;}
+ 
+      header{background-color:rgba(81, 102, 113, 0.753);
+        text-align:center;
+    }
+    .container{
+              border : 1px solid black;
+              text-align:center;
+              background-color:rgb(128, 141, 153);
+    }
+    .box1{ border:1px solid rgb(184, 184, 208);
+          background-color:#fff;
+          margin: 20px;
+          padding:5px;
+      }
+      .box2{ border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;
+
+      }
+      .bigbox2{border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;
+
+      }
+      .box3{border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;}
+
+      .box4{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;
+
+
+      }
+
+      .box5{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;
+
+
+      }
+      .bigbox3{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;
+
+      }
+      .box6{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;}
+
+            .box7{
+                  border:1px solid rgb(184, 184, 208);
+                  background-color:#fff;
+                   margin: 20px;}
+      .box8{
+            
+                  border:1px solid rgb(184, 184, 208);
+                  background-color:#fff;
+                  margin: 20px;
+      }
+
+      .bigbox4{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;
+
+      }
+      .box9{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;}
+
+            .box10{
+                  border:1px solid rgb(184, 184, 208);
+                  background-color:#fff;
+                   margin: 20px;}
+      .box11{
+            
+                  border:1px solid rgb(184, 184, 208);
+                  background-color:#fff;
+                  margin: 20px;
+      }
+
+      .bigbox5{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;
+
+      }
+      .box12{
+            border:1px solid rgb(184, 184, 208);
+            background-color:#fff;
+            margin: 20px;}
+
+            .box13{
+                  border:1px solid rgb(184, 184, 208);
+                  background-color:#fff;
+                   margin: 20px;}
+      .box14{
+            
+                  border:1px solid rgb(184, 184, 208);
+                  background-color:#fff;
+                  margin: 20px;
+      }

@@ -1,0 +1,72 @@
+/* here we defind page margin, padding and border*/
+*{margin:0 auto;
+  padding:0px;
+  border:0px;
+ }
+ /* here we defind background-color and font-family and font-size*/
+ body{
+    background-color:aqua;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:medium;
+ }
+/* here we talk about heading text alingment and margin ,padding*/
+ h2{text-align:center;
+     margin:30px;
+      padding:20px;
+   }
+/*here we give style to main content*/
+.content{
+   background-color:rgb(203, 29, 73);
+   border:2px solid black;
+   width :350px;
+   height:300px;
+   border-radius:15px;
+}
+/*here box 1 we give style to username*/
+.box1{
+       padding:50px 50px 10px;
+       color:aqua;
+}
+
+/*here box 2 we give style to password*/
+.box2{
+   padding:0 50px;
+   color:aqua
+}
+
+/*here box 3 we give style to login button*/
+.box3 input{
+   padding:10px 60px;
+   color:aqua;
+   border-radius:10px;
+   margin:20px 40px;
+   background-color:pink;
+  
+
+
+}
+
+    
+   
+ 
+/*here box 4 we give style to input*/  
+
+.box4 input{
+   padding:0px 50px;
+   color:white;
+   margin:5px 40px;
+   
+}
+
+/*here box 4 we give style to box spacing*/
+.box4 input .spacing{
+   word-spacing: 2px;
+}
+
+/*here box 5 we give style to forgot password*/
+.box5{
+
+   padding:0px 120px 30px;
+   
+
+}
